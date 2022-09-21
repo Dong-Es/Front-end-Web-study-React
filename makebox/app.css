@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+}
+.box{
+  color: white;
+  border: 1px solid white;
+  width :150px;
+  height : 100px;
+  display: block;
+  position: relative;
+}
+.clickbtn{
+  position: relative;
+  left: 35%;
+}
